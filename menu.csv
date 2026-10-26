@@ -1,0 +1,30 @@
+item_id,name,name_zh,category,price,available
+101,Plain Egg Crepe,原味蛋餅,egg_crepe,30,1
+102,Corn Egg Crepe,玉米蛋餅,egg_crepe,40,1
+103,Tuna Egg Crepe,鮪魚蛋餅,egg_crepe,45,1
+104,Bacon Egg Crepe,培根蛋餅,egg_crepe,45,1
+105,Cheese Egg Crepe,起司蛋餅,egg_crepe,40,1
+201,Ham and Egg Toast,火腿蛋吐司,toast,35,1
+202,Pork Floss Toast,肉鬆吐司,toast,35,1
+203,Peanut Butter Toast,花生厚片,toast,30,1
+204,Chicken Cutlet Toast,卡拉雞腿吐司,toast,55,1
+301,Pork Burger,豬肉堡,burger,45,1
+302,Crispy Chicken Burger,卡拉雞腿堡,burger,60,1
+303,Fish Burger,鱈魚堡,burger,50,0
+401,Black Pepper Iron-Plate Noodles,黑胡椒鐵板麵,noodle,55,1
+402,Mushroom Iron-Plate Noodles,蘑菇鐵板麵,noodle,55,1
+501,Turnip Cake,蘿蔔糕,snack,35,1
+502,Hash Brown,薯餅,snack,25,1
+503,Chicken Nuggets (6 pcs),雞塊（6塊）,snack,40,1
+504,French Fries,薯條,snack,35,1
+601,Black Tea medium,紅茶（中）,drink,20,1
+602,Black Tea large,紅茶（大）,drink,25,1
+603,Milk Tea medium,奶茶（中）,drink,30,1
+604,Milk Tea large,奶茶（大）,drink,35,1
+605,Soy Milk medium,豆漿（中）,drink,25,1
+606,Americano,美式咖啡,drink,45,1
+607,Latte,拿鐵,drink,60,1
+608,Fresh Orange Juice,鮮榨柳橙汁,drink,55,0
+701,Extra Egg,加蛋,add_on,10,1
+702,Extra Cheese,加起司,add_on,10,1
+703,Extra Bacon,加培根,add_on,15,1
