@@ -117,8 +117,8 @@ breakfast-customer-service-agent/
 1. Download the project:
 
    ```bash
-   git clone https://github.com/HowardHung2/NKUST-DL-breakfast-agent.git
-   cd NKUST-DL-breakfast-agent
+    git clone https://github.com/HowardHung2/NKUST-DL-breakfast-agent.git
+    cd NKUST-DL-breakfast-agent
    ```
 
 2. Install the packages (Python 3.10 or newer):
